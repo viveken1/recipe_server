@@ -1,0 +1,55 @@
+{
+  "recipes": [
+    {
+      "id": "07f5",
+      "recipeName": "Biriyani",
+      "imageURL": "https://assets.cntraveller.in/photos/62d542ee288f80d6ed75ac4d/16:9/w_1024%2Cc_limit/Biryani%2520lead.jpg",
+      "discription": "Biryani is a mixed rice dish most popular in South Asia. It is made with rice, some type of meat and spices. To cater to vegetarians, in some cases, it is prepared by substituting vegetables for the meat. Sometimes eggs and/or potatoes are added",
+      "youtubeLink": "https://www.youtube.com/embed/ZZXjgQukdhc"
+    },
+    {
+      "id": "7db3",
+      "recipeName": "Upma",
+      "imageURL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Vegetable_Rava_Upma_Sooji_Upma_Recipe_Video_6.jpg",
+      "discription": "Upma is a popular South Indian breakfast made with cream of wheat or semolina flour (called rava or suji locally), veggies, spices and herbs. The upma recipe I share here is adapted from my mom’s recipe and continues to be a favorite in my home. The ingredients used to flavor the rava upma (also called suji ka upma) give it a deliciously satisfying taste that will make this dish one of your new preferred go-to breakfasts.",
+      "youtubeLink": "https://www.youtube.com/embed/J2JPgMxnjjA"
+    },
+    {
+      "id": "9791",
+      "recipeName": "Chicken Curry",
+      "imageURL": "https://www.foodandwine.com/thmb/8YAIANQTZnGpVWj2XgY0dYH1V4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
+      "discription": "Chicken curry or curry/curried chicken is a South Asian dish originating from India. It is common in the Indian subcontinent, Caribbean, Arabian Peninsula, Southeast Asia, Great Britain, and Japan.",
+      "youtubeLink": "https://www.youtube.com/embed/jwyge5daKUQ"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "7db3",
+      "recipeName": "Upma",
+      "imageURL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Vegetable_Rava_Upma_Sooji_Upma_Recipe_Video_6.jpg",
+      "discription": "Upma is a popular South Indian breakfast made with cream of wheat or semolina flour (called rava or suji locally), veggies, spices and herbs. The upma recipe I share here is adapted from my mom’s recipe and continues to be a favorite in my home. The ingredients used to flavor the rava upma (also called suji ka upma) give it a deliciously satisfying taste that will make this dish one of your new preferred go-to breakfasts.",
+      "youtubeLink": "https://www.youtube.com/embed/J2JPgMxnjjA"
+    },
+    {
+      "id": "07f5",
+      "recipeName": "Biriyani",
+      "imageURL": "https://assets.cntraveller.in/photos/62d542ee288f80d6ed75ac4d/16:9/w_1024%2Cc_limit/Biryani%2520lead.jpg",
+      "discription": "Biryani is a mixed rice dish most popular in South Asia. It is made with rice, some type of meat and spices. To cater to vegetarians, in some cases, it is prepared by substituting vegetables for the meat. Sometimes eggs and/or potatoes are added",
+      "youtubeLink": "https://www.youtube.com/embed/ZZXjgQukdhc"
+    }
+  ],
+  "history": [
+    {
+      "recipeName": "Biriyani",
+      "youtubeLink": "https://www.youtube.com/embed/ZZXjgQukdhc",
+      "timeStamp": "03/03/2024, 04:08:16 PM",
+      "id": 1
+    },
+    {
+      "recipeName": "Chicken Curry",
+      "youtubeLink": "https://www.youtube.com/embed/jwyge5daKUQ",
+      "timeStamp": "03/03/2024, 04:08:24 PM",
+      "id": 2
+    }
+  ]
+}
